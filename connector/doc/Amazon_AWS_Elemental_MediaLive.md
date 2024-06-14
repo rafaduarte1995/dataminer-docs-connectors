@@ -85,6 +85,7 @@ The element consists of the following data pages:
 - **Inputs**: Displays the inputs available in the configured MediaLive region.
 - **Channels**: Displays the channels available in the configured MediaLive region.
 - **Channels Health**: Relies on the CloudWatch API and will only display values when a channel is in a running state. Note that it can take up to 59 seconds to retrieve the data on this page.
+- **Channels Health Settings**: This page allows the user to select which Statistic should be applied to the specified metric.
 
 ## Notes
 
